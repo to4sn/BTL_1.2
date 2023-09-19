@@ -1,0 +1,6 @@
+C:\Users\admin88\source\repos\MH_3_Tang\DTO\bin\Debug\DTO.dll
+C:\Users\admin88\source\repos\MH_3_Tang\DTO\bin\Debug\DTO.pdb
+C:\Users\admin88\source\repos\MH_3_Tang\DTO\obj\Debug\DTO.csproj.AssemblyReference.cache
+C:\Users\admin88\source\repos\MH_3_Tang\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+C:\Users\admin88\source\repos\MH_3_Tang\DTO\obj\Debug\DTO.dll
+C:\Users\admin88\source\repos\MH_3_Tang\DTO\obj\Debug\DTO.pdb

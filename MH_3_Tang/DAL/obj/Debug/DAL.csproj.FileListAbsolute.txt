@@ -1,0 +1,9 @@
+C:\Users\admin88\source\repos\MH_3_Tang\DAL\bin\Debug\DAL.dll
+C:\Users\admin88\source\repos\MH_3_Tang\DAL\bin\Debug\DAL.pdb
+C:\Users\admin88\source\repos\MH_3_Tang\DAL\bin\Debug\DTO.dll
+C:\Users\admin88\source\repos\MH_3_Tang\DAL\bin\Debug\DTO.pdb
+C:\Users\admin88\source\repos\MH_3_Tang\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Users\admin88\source\repos\MH_3_Tang\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\admin88\source\repos\MH_3_Tang\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\admin88\source\repos\MH_3_Tang\DAL\obj\Debug\DAL.dll
+C:\Users\admin88\source\repos\MH_3_Tang\DAL\obj\Debug\DAL.pdb
